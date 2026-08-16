@@ -1,6 +1,4 @@
-Absolutely — keeping the same standard as the other READMEs, I’d make this one more professional while also emphasizing that this was an **OOP/design learning project**, not pretending it’s a production contact-management system.
 
-```markdown
 # Contact Manager Application
 
 A clean, console-based **Contact Manager Application** built with **C# and .NET 8** to practice and demonstrate core **Object-Oriented Programming (OOP)** principles through a small real-world domain.
