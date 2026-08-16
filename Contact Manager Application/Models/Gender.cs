@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Contact_Manager_Application.Models
 {
-    internal class Gender
+    public enum Gender
     {
+        Male,
+        Female  
     }
 }
