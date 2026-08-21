@@ -10,7 +10,7 @@
         private DateTime _addedDate;
 
         // references , created lists of class type that holds references
-        private List<Address> _addresses;
+        private List<Address> _addresses; // = new List<Address>(); it is valid
         private List<Email> _emails;
         private List<Phone> _phones;
 
